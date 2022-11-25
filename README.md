@@ -1,5 +1,5 @@
 # Chrome-extension-for-saving-tabs
-This chrome extension cane be added to chrome and it will be used for saving current links or tabs for later purpose.
+This chrome extension cane be added to chrome and it will be used for saving current links or tabs for later purpose using local storage.
 
 <h3>Chrome extension</h3>
 </br> 
